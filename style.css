@@ -1,0 +1,28 @@
+/* Banner css */
+.page-section {
+  padding: 150px 0;
+  overflow: hidden;
+}
+.section-bg {
+  background-color: #f1ff7d;
+}
+.custom-img-banner {
+  margin-left: 150px;
+  height: 400px;
+}
+/* Login css */
+.gridimg1 {
+  height: 80px;
+}
+.grid-1 {
+  background: rgb(234, 234, 246);
+  color: rgb(40, 38, 38);
+  height: 170px;
+  border-radius: 15px;
+  border: 5px solid white;
+}
+.button > span > a {
+  text-decoration: none;
+  color: rgb(40, 38, 38);
+  font-size: 22px;
+}
